@@ -1,0 +1,8 @@
+[info]
+type = application
+
+[freeze]
+base_branch = dev
+freeze_branch = dev-next
+
+[group:test]
